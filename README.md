@@ -1,1 +1,3 @@
-# Azure-Data-Factory-Databricks
+# Leveraged Azure Data Factory for data ingestion from Blob and HTTP sources, utilizing features like copy activity, control flow activities (including If condition, Get Metadata, Web Activities), pipeline parameters, variables, and schedule triggers.
+# Implemented complex data flows - Azure Data Factory and Azure Databricks transformations, also designed and automated pipelines (full/event/dependency within a parent pipeline) ensuring smooth data movement and transformation which increased the process speed by 30%
+# Utilized Azure SQL Database, Azure Blob Storage, ADLS Gen2 for data storage and big data solutions. Incorporated PowerBI for effective reporting and monitoring, including setting up alerts and log analytics to maintain the project's data integrity and accuracy.
